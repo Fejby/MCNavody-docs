@@ -1,3 +1,13 @@
+---
+title: Vlastní svět
+description: Nahrání vlastního světa
+published: true
+date: 2023-11-25T20:14:24.278Z
+tags: 
+editor: markdown
+dateCreated: 2023-11-24T23:42:27.794Z
+---
+
 # Nahrání vlastního světa
 
 ## Jako hlavní svět
