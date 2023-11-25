@@ -1,3 +1,13 @@
+---
+title: Voice chat
+description: Nastavení pluginu Simple Voice Chat
+published: true
+date: 2023-11-25T19:35:25.131Z
+tags: 
+editor: markdown
+dateCreated: 2023-11-24T23:42:28.951Z
+---
+
 # Voice chat
 Plugin Simple Voice chat nám umožňuje hlasovou komunikaci mezi hráči, aby mohl hráč voice chat využívat, je nutné aby měl nainstalovaný mod ve svém klientovi, jinak to nebude fungovat. Vše si v tomhle návodu ukážeme.
 
