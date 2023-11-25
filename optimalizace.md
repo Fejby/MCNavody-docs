@@ -1,3 +1,13 @@
+---
+title: Optimalizace
+description: Průvodce optimalizací serveru Minecraft
+published: true
+date: 2023-11-25T20:51:48.733Z
+tags: 
+editor: markdown
+dateCreated: 2023-11-24T23:42:20.591Z
+---
+
 # Průvodce optimalizací serveru Minecraft
 
 Poznámka pro uživatele, kteří používají Vanillu, Fabric nebo Spigot (nebo cokoli pod Paper) - přejděte do souboru server.properties a změňte `sync-chunk-writes` na `false`. Tato volba je na Paperu a jeho forcích násilně nastavena na false, ale na ostatních implementacích serveru je třeba ji přepnout na false ručně. To umožní serveru ukládat chunky mimo hlavní vlákno, čímž se sníží zatížení hlavní smyčky tick.
