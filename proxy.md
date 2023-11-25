@@ -1,3 +1,13 @@
+---
+title: Proxy Servery
+description: Typy proxy serverů
+published: true
+date: 2023-11-25T20:49:58.910Z
+tags: 
+editor: markdown
+dateCreated: 2023-11-24T23:42:24.266Z
+---
+
 # Co je to proxy?
 
 Proxy server umožňuje propojení ostatních serverů dohromady, což je velice důležité pro každého, kdo chce mít více různých serverů dohromady. Žádný větší server se bez proxy v dnešní době neobejde. Dělat servery typu, kde je na jediném spigot serveru hromada “jiných herních serverů” není vůbec moudré, ať už z technické stránky a i z pohledu hráčů.  
