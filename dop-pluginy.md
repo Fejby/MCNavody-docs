@@ -1,3 +1,13 @@
+---
+title: Doporučené pluginy
+description: Seznam doporučených pluginů pro každý server
+published: true
+date: 2023-11-25T10:35:34.779Z
+tags: 
+editor: markdown
+dateCreated: 2023-11-24T23:42:12.329Z
+---
+
 Zde naleznete seznam univerzálních pluginů, které se používají na skoro každém serveru. Všechny uvedené pluginy jsou úplně zdarma ke stažení a víceméně vždy jsou lepší než jejich placené alternativy. Odkazy vedou na dev buildy pluginů, jsou-li dostupné. 
 
 Zde naleznete seznam univerzálních pluginů, které se používají na skoro každém serveru. Všechny uvedené pluginy jsou úplně zdarma ke stažení a víceméně vždy jsou lepší než jejich placené alternativy. Odkazy vedou na dev buildy pluginů, jsou-li dostupné. 
