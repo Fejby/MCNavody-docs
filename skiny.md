@@ -1,3 +1,13 @@
+---
+title: Skiny
+description: Skiny u warez serverů
+published: true
+date: 2023-11-25T20:49:14.755Z
+tags: 
+editor: markdown
+dateCreated: 2023-11-24T23:42:25.486Z
+---
+
 # Skiny
 
 Pokud na serveru máte povolené připojení warez hráču, neuvidíte skiny hráčů. Tento problém jde naštěstí velmi jednoduše vyřešit. 
