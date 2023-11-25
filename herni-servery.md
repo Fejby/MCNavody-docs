@@ -1,3 +1,13 @@
+---
+title: Herní Servery
+description: Typy herních serverů
+published: true
+date: 2023-11-25T21:05:02.360Z
+tags: 
+editor: markdown
+dateCreated: 2023-11-24T23:42:14.724Z
+---
+
 # Herní Servery
 Pro mnohé nováčky je celkem překvapení, když zjistí, že servery, na kterých hrají, nejsou v drtivé většině případů Vanilla Minecraftem. 
 
