@@ -1,3 +1,13 @@
+---
+title: MC Návody
+description: Užitečné Minecraft návody, pro jakékoliv servery.
+published: true
+date: 2023-11-25T21:01:50.087Z
+tags: 
+editor: markdown
+dateCreated: 2023-11-24T23:42:15.906Z
+---
+
 ## Vítej na MC Návodech!
 
 Ahoj, jsme moc rádi, že jsi dorazil na náš web.
