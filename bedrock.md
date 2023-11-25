@@ -1,3 +1,13 @@
+---
+title: Bedrock
+description: Zpřístupnění serveru pro bedrock hráče
+published: true
+date: 2023-11-25T10:32:48.609Z
+tags: 
+editor: markdown
+dateCreated: 2023-11-24T23:42:11.136Z
+---
+
 # Podpora Bedrock
 Jesliže chcete umožnit připojení bedrock hráčům na váš server, postačí nám na to jeden nebo dva pluginy. Vyberte si verzi serveru a postupujte podle návodu.
 
