@@ -1,3 +1,13 @@
+---
+title: Java verze
+description: Seznam java verzí pro MC server
+published: true
+date: 2023-11-25T20:56:48.816Z
+tags: 
+editor: markdown
+dateCreated: 2023-11-24T23:42:19.426Z
+---
+
 # Java Verze
 To, že určité verze Minecraftu vyžadují určitou verzi Javy, není pro mnohé překvapením. Menším problémem už ale je vědět, jakou Java verzi vaše Minecraft verze vyžaduje. Máme tady pro to připravený malý seznam. Doporučujeme vždy používat vždy nejnovější oficiálně podporovanou verzi Javy.
 
