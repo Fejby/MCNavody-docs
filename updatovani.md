@@ -1,3 +1,13 @@
+---
+title: Updatování
+description: Updaduj jednoduše svůj server
+published: true
+date: 2023-11-25T20:48:52.922Z
+tags: 
+editor: markdown
+dateCreated: 2023-11-24T23:42:26.631Z
+---
+
 # Updatování serveru a pluginů
 V tomto kratším článku si řekneme, jak správně updatovat pluginy a hlavní serverový soubor. Před každým updatem si ovšem udělejte zálohu serveru, nikdy nevíte, co se v novém updatu může pokazit.
 
