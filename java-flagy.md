@@ -1,3 +1,13 @@
+---
+title: Java flagy
+description: Startovací java flagy pro váš server
+published: true
+date: 2023-11-25T21:00:04.737Z
+tags: 
+editor: markdown
+dateCreated: 2023-11-24T23:42:18.244Z
+---
+
 # Java Flagy
 Jak většina z vás určitě ví, Minecraft používá Java Flagy, díky nim pozná, jaký má mít server výkon, jak se má v určitých situacích chovat atd. Volba flagů je tedy velice důležitá, jelikož vám může opravdu hodně pomoci s výkonem serveru.<br>
 Flagy tu nebudeme podrobně rozebírat, jen si uvdeme pár příkladů. Jestli vás ale zajímá více, můžete se o nich dočíst [zde](https://aikar.co/mcflags.html).<br>
