@@ -1,8 +1,8 @@
 ---
 title: MOTD Serveru
 description: 
-published: true
-date: 2023-11-25T21:14:48.542Z
+published: false
+date: 2023-11-25T21:14:59.614Z
 tags: 
 editor: markdown
 dateCreated: 2023-11-25T21:14:48.542Z
