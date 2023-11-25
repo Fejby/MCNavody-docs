@@ -1,3 +1,13 @@
+---
+title: Předgenerace světa
+description: Předgenerování světa pomocí pluginu Chunky
+published: true
+date: 2023-11-25T20:51:20.219Z
+tags: 
+editor: markdown
+dateCreated: 2023-11-24T23:42:21.896Z
+---
+
 # Předgenerace světa
 
 Předgenerování světa dobré z nějakolika důvodu. První důvodem je zvýšení stability server. Server nemusí generovat chunky při hraní hráčů, jelikož je má již předgenerování a tím pádem neubírá zbytečně výkon serveru. Dalším důvod předgenerování může být Dynmapa.
