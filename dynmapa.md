@@ -1,3 +1,13 @@
+---
+title: Dynmapa
+description: Nastavení dynamické mapy
+published: true
+date: 2023-11-25T10:36:23.596Z
+tags: 
+editor: markdown
+dateCreated: 2023-11-24T23:42:13.523Z
+---
+
 # Dynmapa
 Dynmapa je dynamická mapa, která vám dokáže prostřednictvím webu ukázat živý náhled světa a pohyb hráčů po světě. Pojďme si ukázat jak Dynmapu nastavit na váš server.
 
