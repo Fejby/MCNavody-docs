@@ -1,3 +1,13 @@
+---
+title: Autentizace
+description: Nastavení autentizačního pluginu
+published: true
+date: 2023-11-25T10:31:19.366Z
+tags: velocity, waterfall, paper
+editor: markdown
+dateCreated: 2023-11-24T23:42:09.884Z
+---
+
 # Autentizace
 
 Plugin na autentizaci je nedílnou součástí "offline mode" serveru, neboli serveru který je přístupný i pro warez hráče.
