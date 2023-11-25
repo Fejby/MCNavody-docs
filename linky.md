@@ -11,19 +11,15 @@ dateCreated: 2023-11-25T21:07:21.142Z
 # Užitečné odkazy
 ### Server Software
 
--   [Bungeecord](https://www.spigotmc.org/wiki/bungeecord/)
--   [Waterfall](https://github.com/PaperMC/Waterfall)
--   [Flamecord](https://www.mc-market.org/resources/13492/)
--   [Velocity](https://velocitypowered.com/)
+- [Bungeecord](https://www.spigotmc.org/wiki/bungeecord/)
+- [Waterfall](https://github.com/PaperMC/Waterfall)
+- [Flamecord](https://www.mc-market.org/resources/13492/)
+- [Velocity](https://velocitypowered.com/)
 <br/>
 - [CraftBukkit](https://getbukkit.org/download/craftbukkit)
 - [Spigot](https://getbukkit.org/download/spigot)
-- [Paper](https://papermc.io/downloads)
-- [Tuinity](https://github.com/Tuinity/Tuinity)
-- [Airplane](https://github.com/TECHNOVE/Airplane)
 - [Pufferfish](https://pufferfish.host/downloads)
 - [Purpur](https://purpurmc.org/downloads)
-- [Petal](https://github.com/Bloom-host/Petal)
 
 ### DEV verze Pluginů
 - [Authme](https://ci.codemc.io/job/AuthMe/job/AuthMeReloaded/lastSuccessfulBuild/)
