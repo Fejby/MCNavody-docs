@@ -2,7 +2,7 @@
 title: MC Návody
 description: Užitečné Minecraft návody, pro jakékoliv servery.
 published: true
-date: 2024-12-21T00:18:23.885Z
+date: 2024-12-21T00:18:41.481Z
 tags: 
 editor: markdown
 dateCreated: 2023-11-24T23:42:15.906Z
